@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: student-springboot3
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 肖保真
+Implementation-Vendor-Id: com.sdau.student
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/student-springboot3
+Created-By: Maven Integration for Eclipse
+
